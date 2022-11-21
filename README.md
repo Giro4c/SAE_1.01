@@ -28,8 +28,8 @@ C’est un système de vote dans lequel la personne ayant obtenu le plus de voix
 Le candidat ayant rassemblé une majorité absolue gagne.  
 <https://fr.wikipedia.org/wiki/Scrutin_majoritaire_uninominal#:~:text=Le%20scrutin%20uninominal%2C%20ou%20scrutin,que%20de%20si%C3%A8ges%20%C3%A0%20pourvoir.>  
 
-3. Système semi - majoritaire  
-Le système dans lequel la personne ayant obtenu plus de la moitié des voix gagne.  
+3. Système de vote instantané 
+Les électeurs classent les candidats par ordre de préférence. Premier choix qui compte. Si un candidat a plus de 50 c’est fini (il a gagné) Sinon celui qui a le moins de voix il est supprimer (on recommence un nouveau vote).
 __Pas de lien trouvé__  
 
 4. Scrutin proportionnel  
