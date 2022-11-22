@@ -1,7 +1,5 @@
 # SAE 1.01 - Analyse de système de vote  
 
-Pensez à ne pas commit directement dans le main sauf pour le README.  
-
 ## Objectif :  
 
 Implémenter (au moins 4) des systèmes de vote : Systeme de vote (liste non exhaustive), ayant déjà
