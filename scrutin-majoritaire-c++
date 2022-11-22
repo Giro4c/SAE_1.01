@@ -1,0 +1,80 @@
+void majoritaire()
+{
+    // 1: CounterStrike
+    // 2: StreetFighter
+    // 3: Civilization
+    // 4: MarioKart
+    unsigned votes;
+    unsigned nb_votants;
+    string tmpstr; // variable temporaire
+    string str;
+    while (true)
+    {
+        cin >> str;
+        if (cin.eof()) break;
+        getline(cin,tmpstr);
+        nb_votants = nb_votants + 1;
+    }
+
+    for (unsigned i(1); i <= nb_votants/2; i = i+1)
+    {
+        cout << "Entrez votre jeux favoris; parmis : Counter Strike(1), Street; Fighter( 2), Civilization VI (3), Mario Kart(4)";
+        cin >> votes;
+        if (votes == 1)
+        {
+            cout << votes << endl;
+        }
+        else if (votes == 2)
+        {
+            cout << votes << endl;
+        }
+        else if (votes == 3)
+        {
+            cout << votes << endl;
+        }
+        else if (votes == 4)
+        {
+            cout << votes << endl;
+        }
+    }
+}
+unsigned ScrutinMajoritaire()
+{
+    vector<unsigned> tabVotes;
+    tabVotes.resize(4);
+    string listeVotes;
+    string vote;
+    while (true)
+    {
+        cin >> listeVotes;
+        if (cin.eof()) break;
+        getline(cin, vote);
+        if (vote == "1")
+        {
+            tabVotes[0] += 1;
+        }
+        else if (vote == "2")
+        {
+            tabVotes[1] += 1;
+        }
+        else if (vote == "3")
+        {
+            tabVotes[2] += 1;
+        }
+        else if (vote == "4")
+        {
+            tabVotes[3] += 1;
+        }
+
+    }
+    unsigned VoteMax(0);
+    for (unsigned i (0); i < tabVotes.size(); i = i + 1)
+    {
+        if (tabVotes[i] < tabVotes[i+1])
+        {
+            VoteMax = i+1;
+        }
+
+    }
+    return VoteMax;
+}
