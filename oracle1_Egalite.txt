@@ -1,0 +1,6 @@
+Résultat du scrutin :
+Nb Votants : nbVotants
+Il y a une égalité de cptJeux votes entre :
+Jeux1
+Jeux2
+Jeux n
