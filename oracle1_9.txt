@@ -1,0 +1,3 @@
+Résultat du scrutin :
+Nb Votants : 112
+Gagnant : CounterStrike avec 80 votes.
