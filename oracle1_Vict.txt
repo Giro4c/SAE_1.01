@@ -1,3 +1,0 @@
-Resultat du sructin :
-Nb Votants : nbVotants
-Gagnant : jeux cptJeux
