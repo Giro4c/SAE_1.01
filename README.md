@@ -1,5 +1,10 @@
 # SAE 1.01 - Analyse de système de vote  
 
+## Upload des fichiers :  
+Pour connaitre les numéros associés aux différents sytèmes, voir Partie "Systèmes de vote choisis"  
+Les fichiers textes result_(1/2/3/4).txt sont des fichiers vides, ce sont les fichiers dans lesquels sont redirigés les sorties des programmes.  
+Les fichiers zip dans le répertoire contiennent les projets Qt pour faciliter la vérification.  
+
 ## Objectif :  
 
 Implémenter (au moins 4) des systèmes de vote : Systeme de vote (liste non exhaustive), ayant déjà
