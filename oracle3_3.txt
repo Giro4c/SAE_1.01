@@ -1,0 +1,21 @@
+Lecture du fichier...
+Fin de lecture du fichier.
+
+Nombre de votes: 112
+Nombre de position 1 pour CounterStrike : 61
+Nombre de position 1 pour StreetFighter : 12
+Nombre de position 1 pour CivilizationVI : 26
+Nombre de position 1 pour MarioKart : 13
+
+CounterStrike est le gagnant !
+
+Rang de CounterStrike: 1
+Rang de StreetFighter: 4
+Rang de CivilizationVI: 2
+Rang de MarioKart: 3
+
+Classement des jeux : 
+Position 1: CounterStrike
+Position 2: CivilizationVI
+Position 3: MarioKart
+Position 4: StreetFighter
