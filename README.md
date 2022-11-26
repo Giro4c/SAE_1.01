@@ -2,7 +2,7 @@
 
 ## Upload des fichiers :  
 Pour connaitre les numéros associés aux différents sytèmes, voir Partie "Systèmes de vote choisis"  
-Les fichiers textes result_(1/2/3/4).txt sont des fichiers vides, ce sont les fichiers dans lesquels sont redirigés les sorties des programmes.  
+Les fichiers textes result_(1/2/3/4).txt sont des fichiers vides (ou non), ce sont les fichiers dans lesquels sont redirigés les sorties des programmes (donc certains contiennent encore des results de test).  
 Les fichiers zip dans le répertoire contiennent les projets Qt pour faciliter la vérification.  
 
 ## Objectif :  
